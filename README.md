@@ -1,3 +1,3 @@
 # chase-sakitis.github.io
 
-Link to the site [here](https://cjsakitis.github.io/chase-sakitis.github.io/)!
+Link to my personal academic website [here](https://cjsakitis.github.io/)!
