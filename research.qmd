@@ -76,7 +76,7 @@ By jointly modeling both modalities through a shared latent clustering structure
 
 ![](images/FiniteMixture_Webpage.jpg){width="90%" fig-align="center"}
 
-#### BILFIS Model
+#### BILFIS
 
 <span class="research-subheader">Bayesian Integrative Latent Factor Immune Subtyping Model</span>
 
