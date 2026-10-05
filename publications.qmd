@@ -14,9 +14,9 @@ title: "Publications"
 
 <span style="font-size: 20px;">2026</span>
 
-<b>Sakitis CJ</b>, Liao D, Reid BM, Townsend MK, Schildkraut JM, Lawson AB, Tworoger SS, Terry KL, Peres LC, Wrobel J, Soupir AC, Fridley BL. <i>Functional Data Analysis of Spatial Clustering Identifies Prognostic T Cell Patterns in Ovarian Cancer.</i> PLOS Computational Biology. <i><b>Revisions Invited</b></i>
-
 Fang WB, O’Donnell L, Rekowski M, Clark ZS, Lorenzi P, Tan L, Fridley BL, <b>Sakitis CJ</b>, Cheng N. <i>Network models generated from metabolomics and proteomics profiling reveal the TCA cycle, riboflavin metabolism, glyoxylate and dicarboxylate metabolism, and ribosomal assembly as central pathways that distinguish pre-invasive from invasive breast carcinomas.</i> Cancers. <i><b>Revisions Invited</b></i>
+
+<b>Sakitis CJ</b>, Liao D, Reid BM, Townsend MK, Schildkraut JM, Lawson AB, Tworoger SS, Terry KL, Peres LC, Wrobel J, Soupir AC, Fridley BL. <i>Functional Data Analysis of Spatial Clustering Identifies Prognostic T Cell Patterns in Ovarian Cancer.</i> PLOS Computational Biology. <i><b>Resubmitted after Invited Revisions</b></i>
 
 <b>Sakitis CJ</b>, Laborde J, Wrobel J, Soupir AC, Colin-Leitzinger CM, Bitler BG, Townsend MK, Lawson AB, Schildkraut JM, Tworoger SS, Terry KL, Peres LC, Fridley BL. <i><a
   href="https://academic.oup.com/bib/article/27/1/bbag053/8471500"
